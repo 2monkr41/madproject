@@ -21,6 +21,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".MapChooseActivity"></activity>
+        <activity android:name=".ExampleListActivity"></activity>
     </application>
+
+
+
 
 </manifest>
